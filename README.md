@@ -1,4 +1,4 @@
-# Emir Behiç Sağlam
+# Emir Behic Saglam
 
 **Information Security Specialist | Red Team**
 
@@ -46,4 +46,4 @@ supports my approach to security analysis.
 Python · C · C++ · HTML5 · CSS3 · ASP.NET MVC · MySQL/MS SQL · Burp Suite · 
 Invicti (Netsparker) · Nessus · Kali/Parrot OS · Wireshark · Procmon
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/emir-behiç-sağlam)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/emir-behic-saglam)
