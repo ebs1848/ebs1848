@@ -31,14 +31,16 @@ supports my approach to security analysis.
 
 ## Projects (repositories on this profile)
 
-- **XSS-LAB** — A lab project demonstrating XSS vulnerabilities and safe input 
-  validation/sanitization techniques.
-- **Languager** — A mobile translation app built with Android Studio, integrated 
-  with the Google Translate API, supporting translation across 50 languages.
-- **HTML5-CSS3-and-ASP.NET-MVC-Projects** — General ASP.NET MVC, HTML5, and CSS3 
-  web development projects.
-- **C-and-Object-Oriented-Programing** — C / C++ exercises covering data 
-  structures and object-oriented design.
+- **XSS-LAB** — A security lab demonstrating Cross-Site Scripting (XSS) vulnerabilities alongside secure input validation and sanitization techniques.
+- **Languager** — A mobile translation application built with Android Studio and Java, integrated with the Google Translate API to support multilingual translation across 50 languages.
+- **My-Other-Mobile-App-Works** — A collection of native Android mobile applications and UI/logic implementations developed using Java and Android Studio.
+- **Robotics-and-Robot-Autonomy-Series** — A three-part robotics repository implementing core autonomous motion planning algorithms in Python:
+  - *Part 1:* Steering control mechanisms for autonomous robot lane-changing maneuvers.
+  - *Part 2:* Sensor-based pathfinding and obstacle avoidance utilizing Bug algorithms.
+  - *Part 3:* Path planning and grid exploration utilizing graph search algorithms (BFS, DFS, Dijkstra, A*).
+- **Machine-Learning-Tutorial** — Practical implementations and tutorials covering Python data science fundamentals, exploratory data analysis, and standard machine learning algorithms.
+- **HTML5-CSS3-and-ASP.NET-MVC-Projects** — Full-stack web development projects demonstrating responsive UI design and MVC architectural patterns using HTML5, CSS3, JavaScript, and ASP.NET MVC.
+- **C-and-Object-Oriented-Programing** — Core programming assignments and software implementations focusing on data structures, memory management, and OOP principles in C and C++.
 
 ## Technologies & Domains
 
