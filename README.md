@@ -2,19 +2,17 @@
 
 **Information Security Specialist | Red Team**
 
-I work as an Information Security Specialist and Red Team member at a corporate 
-organization, performing penetration testing, vulnerability analysis, and 
-security assessments across web applications and network infrastructure.
+I work as an Information Security Specialist, performing penetration testing, 
+vulnerability analysis, and security assessments across web applications 
+and network infrastructure.
 
 I am pursuing a Master's degree in Information Security at Hacettepe University. 
 I hold a Bachelor's degree in Computer Engineering (English) from Ostim Technical 
 University.
 
-Before graduating, I worked as a candidate engineer at TAI. In the past, I 
-developed several software projects using different programming languages and 
-technologies, which helped me build a strong technical foundation. This 
-experience gave me a solid understanding of how software works, which now 
-supports my approach to security analysis.
+My background in software development across different languages and technologies 
+gave me a strong technical foundation, which now supports my approach to security 
+analysis.
 
 ## Current work
 
