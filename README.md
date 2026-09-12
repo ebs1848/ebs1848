@@ -21,12 +21,10 @@ analysis.
 - Performing server and network security assessments across institutional infrastructure.
 - Performing source code security reviews (SAST) on in-house developed applications 
   in line with Secure Software Development Life Cycle (SSDLC) principles.
-- Conducting static and dynamic security assessments, reverse engineering, and behavioral 
-  analysis on prospective third-party software prior to institutional deployment.
-- Tracking APT groups, 0-day vulnerabilities, and spear-phishing campaigns as 
-  part of Cyber Threat Intelligence (CTI) operations, monitoring Clear-Web, Deep-Web, 
-  and Dark-Web sources for actionable IoCs.
-
+- Performing security assessments of third-party software prior to institutional deployment.
+- Conducting cyber threat intelligence (CTI) activities to help protect the institution against
+  emerging cyber threats and staying current with the latest security trends.
+  
 ## Projects (repositories on this profile)
 
 - **XSS-LAB** — A security lab demonstrating Cross-Site Scripting (XSS) vulnerabilities alongside secure input validation and sanitization techniques.
