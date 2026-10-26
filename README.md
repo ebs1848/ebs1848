@@ -33,9 +33,9 @@ analysis.
 - [**Languager**](https://github.com/ebs1848/Languager) — A mobile translation application built with Android Studio and Java, integrated with the Google Translate API to support multilingual translation across 50 languages.
 - [**My-Other-Mobile-App-Works**](https://github.com/ebs1848/My-Other-Mobile-App-Works) — A collection of native Android mobile applications and UI/logic implementations developed using Java and Android Studio.
 - **Robotics and Robot Autonomy** — A three-part robotics series implementing core autonomous motion planning algorithms in Python:
-  - [*Part 1:*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-1) Steering control mechanisms for autonomous robot lane-changing maneuvers.
-  - [*Part 2:*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-2) Sensor-based pathfinding and obstacle avoidance utilizing Bug algorithms.
-  - [*Part 3:*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-3) Path planning and grid exploration utilizing graph search algorithms (BFS, DFS, Dijkstra, A*).
+  - [*Part 1*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-1): Steering control mechanisms for autonomous robot lane-changing maneuvers.
+  - [*Part 2*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-2): Sensor-based pathfinding and obstacle avoidance utilizing Bug algorithms.
+  - [*Part 3*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-3): Path planning and grid exploration utilizing graph search algorithms (BFS, DFS, Dijkstra, A*).
 - [**Machine-Learning-Tutorial**](https://github.com/ebs1848/Machine-Learning-Tutorial) — Practical implementations and tutorials covering Python data science fundamentals, exploratory data analysis, and standard machine learning algorithms.
 - [**HTML5-CSS3-and-ASP.NET-MVC-Projects**](https://github.com/ebs1848/HTML5-CSS3-and-ASP.NET-MVC-Projects) — Full-stack web development projects demonstrating responsive UI design and MVC architectural patterns using HTML5, CSS3, JavaScript, and ASP.NET MVC.
 - [**C-and-Object-Oriented-Programming**](https://github.com/ebs1848/C-and-Object-Oriented-Programing) — Core programming assignments and software implementations focusing on data structures, memory management, and OOP principles in C and C++.
