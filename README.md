@@ -18,13 +18,15 @@ analysis.
 
 - Conducting penetration testing and vulnerability assessments across web applications 
   and internal infrastructure.
-- Performing server and network security assessments across institutional infrastructure.
-- Performing source code security reviews (SAST) on in-house developed applications 
-  in line with Secure Software Development Life Cycle (SSDLC) principles.
-- Performing security assessments of third-party software prior to institutional deployment.
-- Conducting cyber threat intelligence (CTI) activities to help protect the institution against
-  emerging cyber threats and staying current with the latest security trends.
-  
+- Running server and network security assessments across institutional infrastructure.
+- Reviewing the source code of in-house developed applications (SAST) in line with 
+  Secure Software Development Life Cycle (SSDLC) principles.
+- Conducting static and dynamic security assessments, reverse engineering, and behavioral 
+  analysis on prospective third-party software prior to institutional deployment.
+- Tracking APT groups, 0-day vulnerabilities, and spear-phishing campaigns as 
+  part of Cyber Threat Intelligence (CTI) operations, monitoring Clear-Web, Deep-Web, 
+  and Dark-Web sources for actionable IoCs.
+
 ## Projects (repositories on this profile)
 
 - **XSS-LAB** — A security lab demonstrating Cross-Site Scripting (XSS) vulnerabilities alongside secure input validation and sanitization techniques.
@@ -36,11 +38,11 @@ analysis.
   - *Part 3:* Path planning and grid exploration utilizing graph search algorithms (BFS, DFS, Dijkstra, A*).
 - **Machine-Learning-Tutorial** — Practical implementations and tutorials covering Python data science fundamentals, exploratory data analysis, and standard machine learning algorithms.
 - **HTML5-CSS3-and-ASP.NET-MVC-Projects** — Full-stack web development projects demonstrating responsive UI design and MVC architectural patterns using HTML5, CSS3, JavaScript, and ASP.NET MVC.
-- **C-and-Object-Oriented-Programing** — Core programming assignments and software implementations focusing on data structures, memory management, and OOP principles in C and C++.
+- **C-and-Object-Oriented-Programming** — Core programming assignments and software implementations focusing on data structures, memory management, and OOP principles in C and C++.
 
 ## Technologies & Domains
 
-Python · C · C++ · HTML5 · CSS3 · ASP.NET MVC · MySQL · Penetration Testing · Linux Environments
+Python · C · C++ · HTML5 · CSS3 · ASP.NET MVC · MySQL · Penetration Testing · Linux Environments · 
 Vulnerability Assessment · Network Traffic Analysis · Reverse Engineering · Threat Intelligence (CTI)
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/emir-behic-saglam)
