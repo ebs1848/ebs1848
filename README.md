@@ -24,8 +24,8 @@ analysis.
 - Conducting static and dynamic security assessments, reverse engineering, and behavioral 
   analysis on prospective third-party software prior to institutional deployment.
 - Tracking APT groups, 0-day vulnerabilities, and spear-phishing campaigns as 
-  part of Cyber Threat Intelligence (CTI) operations, monitoring Clear-Web, Deep-Web, 
-  and Dark-Web sources for actionable IoCs.
+  part of Cyber Threat Intelligence (CTI) operations, monitoring open and closed 
+  sources for actionable IoCs.
 
 ## Projects (repositories on this profile)
 
@@ -42,7 +42,6 @@ analysis.
 
 ## Technologies & Domains
 
-Python · C · C++ · HTML5 · CSS3 · ASP.NET MVC · MySQL · Penetration Testing · Linux Environments · 
-Vulnerability Assessment · Network Traffic Analysis · Reverse Engineering · Threat Intelligence (CTI)
+Python · C · C++ · HTML5 · CSS3 · ASP.NET MVC · MySQL · Penetration Testing · Linux Environments · Vulnerability Assessment · Network Traffic Analysis · Reverse Engineering · Threat Intelligence (CTI)
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/emir-behic-saglam)
