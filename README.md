@@ -38,7 +38,7 @@ analysis.
   - [*Part 3*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-3): Path planning and grid exploration utilizing graph search algorithms (BFS, DFS, Dijkstra, A*).
 - [**Machine-Learning-Tutorial**](https://github.com/ebs1848/Machine-Learning-Tutorial) — Practical implementations and tutorials covering Python data science fundamentals, exploratory data analysis, and standard machine learning algorithms.
 - [**HTML5-CSS3-and-ASP.NET-MVC-Projects**](https://github.com/ebs1848/HTML5-CSS3-and-ASP.NET-MVC-Projects) — Full-stack web development projects demonstrating responsive UI design and MVC architectural patterns using HTML5, CSS3, JavaScript, and ASP.NET MVC.
-- [**C-and-Object-Oriented-Programming**](https://github.com/ebs1848/C-and-Object-Oriented-Programing) — Core programming assignments and software implementations focusing on data structures, memory management, and OOP principles in C and C++.
+- [**C-and-Object-Oriented-Programming**](https://github.com/ebs1848/C-and-Object-Oriented-Programming) — Core programming assignments and software implementations focusing on data structures, memory management, and OOP principles in C and C++.
 
 ## Technologies & Domains
 
