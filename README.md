@@ -30,7 +30,7 @@ analysis.
 ## Projects (repositories on this profile)
 
 - [**XSS-LAB**](https://github.com/ebs1848/XSS-LAB) — A security lab demonstrating Cross-Site Scripting (XSS) vulnerabilities alongside secure input validation and sanitization techniques.
-- [**Languager**](https://github.com/ebs1848/Languager) — A mobile translation application built with Android Studio and Java, integrated with the Google Translate API to support multilingual translation across 50 languages.
+- [**Languager**](https://github.com/ebs1848/Languager) — A mobile translation application built with Android Studio and Java, integrated with Google ML Kit for on-device translation across 50+ languages, working offline once language models are downloaded.
 - [**My-Other-Mobile-App-Works**](https://github.com/ebs1848/My-Other-Mobile-App-Works) — A collection of native Android mobile applications and UI/logic implementations developed using Java and Android Studio.
 - **Robotics and Robot Autonomy** — A three-part robotics series implementing core autonomous motion planning algorithms in Python:
   - [*Part 1*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-1): Steering control mechanisms for autonomous robot lane-changing maneuvers.
