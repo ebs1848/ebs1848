@@ -42,7 +42,7 @@ analysis.
 
 ## Certifications
 
-- **ISO/IEC 27001:2022 Lead Auditor**, CTR Academy, 2026
+- **ISO/IEC 27001:2022 Lead Auditor** (CTR Academy)
 
 ## Technologies & Domains
 
