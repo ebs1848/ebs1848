@@ -40,6 +40,10 @@ analysis.
 - [**HTML5-CSS3-and-ASP.NET-MVC-Projects**](https://github.com/ebs1848/HTML5-CSS3-and-ASP.NET-MVC-Projects) — Full-stack web development projects demonstrating responsive UI design and MVC architectural patterns using HTML5, CSS3, JavaScript, and ASP.NET MVC.
 - [**C-and-Object-Oriented-Programming**](https://github.com/ebs1848/C-and-Object-Oriented-Programming) — Core programming assignments and software implementations focusing on data structures, memory management, and OOP principles in C and C++.
 
+## Certifications
+
+- **Information Security Management System Auditor/Lead Auditor Course (ISO/IEC 27001:2022)**, CTR Academy, 2026
+
 ## Technologies & Domains
 
 Python · C · C++ · HTML5 · CSS3 · ASP.NET MVC · MySQL · Penetration Testing · Linux Environments · Vulnerability Assessment · Network Traffic Analysis · Reverse Engineering · Threat Intelligence (CTI)
