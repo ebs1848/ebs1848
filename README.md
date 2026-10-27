@@ -42,7 +42,7 @@ analysis.
 
 ## Certifications
 
-- **Information Security Management System Auditor/Lead Auditor (ISO/IEC 27001:2022)**, CTR Academy, 2026 (40-hour course with examination)
+- **ISO/IEC 27001:2022 Lead Auditor**, CTR Academy, 2026
 
 ## Technologies & Domains
 
