@@ -54,6 +54,6 @@ engineering-foundation, coursework) so the groups can be filtered on GitHub.
 
 ## Technologies & Domains
 
-Python · C · C++ · HTML5 · CSS3 · ASP.NET MVC · MySQL · Penetration Testing · Linux Environments · Vulnerability Assessment · Network Traffic Analysis · Reverse Engineering · Threat Intelligence (CTI)
+Python · C · C++ · HTML5 · CSS3 · JavaScript · ASP.NET MVC · MySQL · Penetration Testing · Linux Environments · Vulnerability Assessment · Network Traffic Analysis · Reverse Engineering · Threat Intelligence (CTI)
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/emir-behic-saglam)
