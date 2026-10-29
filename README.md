@@ -2,43 +2,54 @@
 
 **Information Security Specialist | Red Team**
 
-I work as an Information Security Specialist, performing penetration testing, 
-vulnerability analysis, and security assessments across web applications 
+I work as an Information Security Specialist, performing penetration testing,
+vulnerability analysis, and security assessments across web applications
 and network infrastructure.
 
-I am pursuing a Master's degree in Information Security at Hacettepe University. 
-I hold a Bachelor's degree in Computer Engineering (English) from Ostim Technical 
+I am pursuing a Master's degree in Information Security at Hacettepe University.
+I hold a Bachelor's degree in Computer Engineering (English) from Ostim Technical
 University.
 
-My background in software development across different languages and technologies 
-gave me a strong technical foundation, which now supports my approach to security 
+My background in software development across different languages and technologies
+gave me a strong technical foundation, which now supports my approach to security
 analysis.
 
 ## Current work
 
-- Conducting penetration testing and vulnerability assessments across web applications 
-  and internal infrastructure.
+- Conducting penetration testing and vulnerability assessments across web applications
+and internal infrastructure.
 - Running server and network security assessments across institutional infrastructure.
-- Reviewing the source code of in-house developed applications (SAST) in line with 
-  Secure Software Development Life Cycle (SSDLC) principles.
-- Conducting static and dynamic security assessments, reverse engineering, and behavioral 
-  analysis on prospective third-party software prior to institutional deployment.
-- Tracking APT groups, 0-day vulnerabilities, and spear-phishing campaigns as 
-  part of Cyber Threat Intelligence (CTI) operations, monitoring open and closed 
-  sources for actionable IoCs.
+- Reviewing the source code of in-house developed applications (SAST) in line with
+Secure Software Development Life Cycle (SSDLC) principles.
+- Conducting static and dynamic security assessments, reverse engineering, and behavioral
+analysis on prospective third-party software prior to institutional deployment.
+- Tracking APT groups, 0-day vulnerabilities, and spear-phishing campaigns as
+part of Cyber Threat Intelligence (CTI) operations, monitoring open and closed
+sources for actionable IoCs.
 
 ## Projects (repositories on this profile)
 
+Repositories are grouped by focus. Each one carries a matching topic (security-lab,
+engineering-foundation, coursework) so the groups can be filtered on GitHub.
+
+### Security
+
 - [**XSS-LAB**](https://github.com/ebs1848/XSS-LAB) — A security lab demonstrating Cross-Site Scripting (XSS) vulnerabilities alongside secure input validation and sanitization techniques.
+
+### Engineering foundation
+
 - [**Languager**](https://github.com/ebs1848/Languager) — A mobile translation application built with Android Studio and Java, integrated with Google ML Kit for on-device translation across 50+ languages, working offline once language models are downloaded.
-- [**My-Other-Mobile-App-Works**](https://github.com/ebs1848/My-Other-Mobile-App-Works) — A collection of native Android mobile applications and UI/logic implementations developed using Java and Android Studio.
 - **Robotics and Robot Autonomy** — A three-part robotics series implementing core autonomous motion planning algorithms in Python:
   - [*Part 1*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-1): Steering control mechanisms for autonomous robot lane-changing maneuvers.
   - [*Part 2*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-2): Sensor-based pathfinding and obstacle avoidance utilizing Bug algorithms.
   - [*Part 3*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-3): Path planning and grid exploration utilizing graph search algorithms (BFS, DFS, Dijkstra, A*).
 - [**Machine-Learning-Tutorial**](https://github.com/ebs1848/Machine-Learning-Tutorial) — Practical implementations and tutorials covering Python data science fundamentals, exploratory data analysis, and standard machine learning algorithms.
+
+### Coursework
+
 - [**HTML5-CSS3-and-ASP.NET-MVC-Projects**](https://github.com/ebs1848/HTML5-CSS3-and-ASP.NET-MVC-Projects) — Full-stack web development projects demonstrating responsive UI design and MVC architectural patterns using HTML5, CSS3, JavaScript, and ASP.NET MVC.
 - [**C-and-Object-Oriented-Programming**](https://github.com/ebs1848/C-and-Object-Oriented-Programming) — Core programming assignments and software implementations focusing on data structures, memory management, and OOP principles in C and C++.
+- [**My-Other-Mobile-App-Works**](https://github.com/ebs1848/My-Other-Mobile-App-Works) — A collection of native Android mobile applications and UI/logic implementations developed using Java and Android Studio.
 
 ## Certifications
 
