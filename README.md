@@ -39,10 +39,7 @@ engineering-foundation, coursework) so the groups can be filtered on GitHub.
 ### Engineering foundation
 
 - [**Languager**](https://github.com/ebs1848/Languager) — A mobile translation application built with Android Studio and Java, integrated with Google ML Kit for on-device translation across 50+ languages, working offline once language models are downloaded.
-- **Robotics and Robot Autonomy** — A three-part robotics series implementing core autonomous motion planning algorithms in Python:
-  - [*Part 1*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-1): Steering control mechanisms for autonomous robot lane-changing maneuvers.
-  - [*Part 2*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-2): Sensor-based pathfinding and obstacle avoidance utilizing Bug algorithms.
-  - [*Part 3*](https://github.com/ebs1848/Robotics-and-Robot-Autonomy-3): Path planning and grid exploration utilizing graph search algorithms (BFS, DFS, Dijkstra, A*).
+- [**Robotics-and-Robot-Autonomy**](https://github.com/ebs1848/Robotics-and-Robot-Autonomy) — Robotics projects implementing core autonomous motion planning algorithms in Python: steering control for lane-changing maneuvers, sensor-based pathfinding with Bug algorithms, and grid exploration with graph search (BFS, DFS, Dijkstra, A*).
 - [**Machine-Learning-Tutorial**](https://github.com/ebs1848/Machine-Learning-Tutorial) — Practical implementations and tutorials covering Python data science fundamentals, exploratory data analysis, and standard machine learning algorithms.
 
 ### Coursework
