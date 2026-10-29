@@ -40,13 +40,13 @@ engineering-foundation, coursework) so the groups can be filtered on GitHub.
 
 - [**Languager**](https://github.com/ebs1848/Languager) — A mobile translation application built with Android Studio and Java, integrated with Google ML Kit for on-device translation across 50+ languages, working offline once language models are downloaded.
 - [**Robotics-and-Robot-Autonomy**](https://github.com/ebs1848/Robotics-and-Robot-Autonomy) — Robotics projects implementing core autonomous motion planning algorithms in Python: steering control for lane-changing maneuvers, sensor-based pathfinding with Bug algorithms, and grid exploration with graph search (BFS, DFS, Dijkstra, A*).
-- [**Machine-Learning-Tutorial**](https://github.com/ebs1848/Machine-Learning-Tutorial) — Practical implementations and tutorials covering Python data science fundamentals, exploratory data analysis, and standard machine learning algorithms.
 
 ### Coursework
 
 - [**HTML5-CSS3-and-ASP.NET-MVC-Projects**](https://github.com/ebs1848/HTML5-CSS3-and-ASP.NET-MVC-Projects) — Full-stack web development projects demonstrating responsive UI design and MVC architectural patterns using HTML5, CSS3, JavaScript, and ASP.NET MVC.
 - [**C-and-Object-Oriented-Programming**](https://github.com/ebs1848/C-and-Object-Oriented-Programming) — Core programming assignments and software implementations focusing on data structures, memory management, and OOP principles in C and C++.
 - [**My-Other-Mobile-App-Works**](https://github.com/ebs1848/My-Other-Mobile-App-Works) — A collection of native Android mobile applications and UI/logic implementations developed using Java and Android Studio.
+- [**Machine-Learning-Tutorial**](https://github.com/ebs1848/Machine-Learning-Tutorial) — Practical implementations and tutorials covering Python data science fundamentals, exploratory data analysis, and standard machine learning algorithms.
 
 ## Certifications
 
